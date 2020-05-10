@@ -21,3 +21,12 @@ For full category related files, it should be stored as `~/Full-Category/{Catego
 
 ## Why make this repository?
 Tool-assisted speedrunning has been a big part of my life. Newcomers and non-TASers deserve equal access to resources as any other member of the community. However, without understanding the community's structure, accessing TASing information is almost impossible in many cases. So, I have made it my mission to build this library as a way of allowing an easy-access means of locating the verified resources.
+
+## Other important resources
+1. [STROOP](https://github.com/SM64-TAS-ABC/STROOP)
+
+STROOP is a diagnostic tool for Super Mario 64 that displays and allows for simple editing of various game values and information. It can connect to a running emulator and update values in real time. Some core features include views of loaded/unloaded objects, Mario structure variables, camera + HUD values, an overhead map display, and many more.
+
+2. [Ukikipedia](https://ukikipedia.net/wiki/Main_Page)
+
+This wiki is dedicated to recording expert level knowledge of Super Mario 64. The purpose of this wiki is to allow people to find information that isn't easily available on other websites or by a quick Google search.

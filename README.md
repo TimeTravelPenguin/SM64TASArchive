@@ -18,3 +18,6 @@ Or, further succinctly, as `~/IL/{Level}/{Star}/{TAS time}`.
 
 For full category related files, it should be stored as `~/Full-Category/{Category}/{TAS Time}`.
 `{TAS time}` should be in `#m#s#ms` notation. For example, a TAS of 201.5 seconds should be `3m21s50ms`, rounding the ms to 2d.p.
+
+## Why make this repository?
+Tool-assisted speedrunning has been a big part of my life. Newcomers and non-TASers deserve equal access to resources as any other member of the community. However, without understanding the community's structure, accessing TASing information is almost impossible in many cases. So, I have made it my mission to build this library as a way of allowing an easy-access means of locating the verified resources.

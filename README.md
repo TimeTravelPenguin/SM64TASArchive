@@ -1,4 +1,4 @@
-# SM64TASArchive
+# SM64 TAS Archive
 This repository serves to archive the critical milestones throughout SM64 TASing history. This repository stores TAS WR files for ILs, ABC, and full category runs.
 
 ## About this repository

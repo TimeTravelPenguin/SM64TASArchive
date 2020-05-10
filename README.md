@@ -2,7 +2,7 @@
 This repository serves to archive the critical milestones throughout SM64 TASing history. This repository stores TAS WR files for ILs, ABC, and full category runs.
 
 ## About this repository
-Anyone is free to use this repository. If you have an improved TAS, wish to add a TAS currently not archived, etc., you can make a pull request. Alternatively, you can join the [Super Mario 64 TASing and ABC](https://discord.gg/ECskvyF) server and contact me, TimeTravelPenguin.
+Anyone is free to use this repository. If you have an improved TAS, wish to add a TAS currently not archived, etc., you can make a pull request. Alternatively, you can join the [Super Mario 64 TASing and ABC](https://discord.gg/ECskvyF) Discord server and contact me, TimeTravelPenguin.
 
 ## Repository structure
 As this repository grows, the structure and layout surely will, also. For now, it will be as follows:
@@ -30,3 +30,5 @@ STROOP is a diagnostic tool for Super Mario 64 that displays and allows for simp
 2. [Ukikipedia](https://ukikipedia.net/wiki/Main_Page)
 
 This wiki is dedicated to recording expert level knowledge of Super Mario 64. The purpose of this wiki is to allow people to find information that isn't easily available on other websites or by a quick Google search.
+
+Please join the [Super Mario 64 TASing and ABC](https://discord.gg/ECskvyF) Discord server for any other SM64 TASing related matters!

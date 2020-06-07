@@ -4,6 +4,9 @@ This repository serves to archive the critical milestones throughout SM64 TASing
 ## About this repository
 Anyone is free to use this repository. If you have an improved TAS, wish to add a TAS currently not archived, etc., you can make a pull request. Alternatively, you can join the [Super Mario 64 TASing and ABC](https://discord.gg/ECskvyF) Discord server and contact me, TimeTravelPenguin.
 
+## How to contribute?
+If you have files you wish to contribute, you can either contact me or merge them yourself. To do so, fork this branch - this will create a clone of the repository - add those changes to your forked branch, then return here and select `New Pull Request`. Then choose this repository's master branch as the base, and your forked repo as the head. Then merge! Make sure you comment on your changes when you commit! It helps a lot to ensure correct mergers. Thanks!
+
 ## Repository structure
 As this repository grows, the structure and layout surely will, also. For now, it will be as follows:
 ```

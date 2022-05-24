@@ -35,3 +35,7 @@ STROOP is a diagnostic tool for Super Mario 64 that displays and allows for simp
 This wiki is dedicated to recording expert level knowledge of Super Mario 64. The purpose of this wiki is to allow people to find information that isn't easily available on other websites or by a quick Google search.
 
 Please join the [Super Mario 64 TASing and ABC](https://discord.gg/ECskvyF) Discord server for any other SM64 TASing related matters!
+
+3. [MupenSharp](https://github.com/TimeTravelPenguin/MupenSharp)
+
+MupenSharp is a C# library developed to help with the reading and writing of Mupen64's .m64 files. It provides a simple API to interact with .m64 files.
